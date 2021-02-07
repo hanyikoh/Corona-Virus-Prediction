@@ -1,0 +1,19 @@
+<html>
+
+<body bgcolor=#D3D3D3>
+
+    <center>
+
+        <h1> CORONA VIRUS DETECTION </h1><br>
+
+        <form action="{{url_for('home')}}" method="post">
+            <b> Date you wnat to predict : <input type="text" , name='date' , placeholder="enter date"> <br><br></b>
+            <input type="submit" , value='predict!'>
+        </form>
+        <h1>Prediction : {{data}}</h1>
+
+    </center>
+
+</body>
+
+</html>
