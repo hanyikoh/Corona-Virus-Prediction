@@ -14,7 +14,7 @@ We started by doing some simple analysis of the dataset. After collecting some i
 
 ------
 
-Devpost link: [Corona Virus Prediction Model](https://devpost.com/software/corona-virus-prediction-model) <br>
+Devpost link: [Corona Virus Prediction Model](https://devpost.com/software/corona-virus-prediction-model)
 
 By: <br>
 [Henry Koh](https://github.com/hanyikoh) <br>
