@@ -12,6 +12,7 @@ Data sources:
 
 We started by doing some simple analysis of the dataset. After collecting some info, we have made a 10-days COVID-19 cases prediction by using linear regression. Our aim is not really to predict the future, but to learn more things related to Data Science field. We hope that we could get some feedback on our project, and we are also willing to learn in order to improve our project :D 
 
+------
 
 Devpost link: [Corona Virus Prediction Model](https://devpost.com/software/corona-virus-prediction-model)
 
